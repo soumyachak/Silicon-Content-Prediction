@@ -1,1 +1,1 @@
-# Silicon Content Prediction & Optimization using Reinforcemnet Learning
+# Silicon Content Prediction & Optimization using Reinforcement Learning
